@@ -1,0 +1,34 @@
+body {
+    
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+    color: white;
+    }
+#about{
+    text-align: left;
+    color: gray;
+    padding: 15px
+}    
+    ul{
+        width: 570px;
+        padding: 15px;
+        margin: 0px auto 0px auto;
+        border-top: 2px solid gray;
+        border-bottom: 1px solid gray;
+        text-align: center;
+    
+    }
+    li {
+        display: inline;
+        margin: 0px 1px;
+    }
+    a {
+        color: white;
+        text-transform: uppercase;
+        text-decoration: none;
+        padding: 6px 16px 5px 16px;
+    }
+    a:hover, a.on {
+        color: #cc3333;
+        background-color: black;
